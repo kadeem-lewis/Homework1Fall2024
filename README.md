@@ -4,9 +4,8 @@
 
 **Instructions**
 
-- Install WSL2 with Ubuntu linux installed
-- Create a GitHub Account
-- Create a folder for projects
-- Create homework project 1
-- Create a branch and a merge locally as well as on Github
-- Create homework project 1
+- [x] Install WSL2 with Ubuntu linux installed
+- [x] Create a GitHub Account
+- [x] Create a folder for projects
+- [x] Create homework project 1
+- [ ] Create a branch and a merge locally as well as on Github
