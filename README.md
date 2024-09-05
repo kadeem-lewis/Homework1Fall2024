@@ -8,4 +8,4 @@
 - [x] Create a GitHub Account
 - [x] Create a folder for projects
 - [x] Create homework project 1
-- [ ] Create a branch and a merge locally as well as on Github
+- [x] Create a branch and a merge locally as well as on Github
